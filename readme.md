@@ -28,4 +28,4 @@ This project has no history and no future
 
 ## License
 
-mrk-group (c)
+GNU GENERAL PUBLIC LICENSE Version 3
