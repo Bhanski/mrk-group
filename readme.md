@@ -4,7 +4,7 @@ mrk-group test project
 
 ## Installation
 
-No installation required
+No installation required - There is no spoon.
 
 ## Usage
 
